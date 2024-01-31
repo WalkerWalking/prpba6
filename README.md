@@ -9,4 +9,4 @@
 1. Macska
 
 
-`alert(Macska)`
+`alert(Macska);`
