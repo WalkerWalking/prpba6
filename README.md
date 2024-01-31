@@ -7,3 +7,6 @@
 
 - miga
 1. Macska
+
+
+`alert(Macska)`
